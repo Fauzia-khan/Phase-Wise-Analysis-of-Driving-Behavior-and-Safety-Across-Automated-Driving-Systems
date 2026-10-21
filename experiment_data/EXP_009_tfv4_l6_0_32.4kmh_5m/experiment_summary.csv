@@ -1,0 +1,2 @@
+experiment_id,folder_name,scenario_name,town,agent,ego_model,lead_model,ego_x_m,ego_y_m,ego_z_m,ego_yaw_deg,goal_x_m,goal_y_m,goal_z_m,initial_bumper_gap_m,lead_speed_kmh,lead_stop_after_m,scenario_timeout_s,fixed_delta_s,result,rows_recorded
+EXP_009,EXP_009_tfv4_l6_0_32.4kmh_5m,town01_follow_lead,Town01,tfv4_l6_0,vehicle.lincoln.mkz_2017,vehicle.audi.etron,396.35,309,0.5,-90,396.37,21,0.0,5.0,32.4,215.0,80.0,0.05,timeout,1600
