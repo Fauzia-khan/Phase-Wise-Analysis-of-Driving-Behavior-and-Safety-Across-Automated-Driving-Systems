@@ -1,0 +1,4 @@
+ads,phase,lead_speed_mps,lead_speed_kmh,runs,min_ttc_s_mean,min_ttc_s_sd,min_ttc_s_n,min_rss_margin_m_mean,min_rss_margin_m_sd,min_rss_margin_m_n,max_abs_jerk_mps3_mean,max_abs_jerk_mps3_sd,max_abs_jerk_mps3_n
+if_if,Acceleration,3.0,10.8,3,2.4065600991895217,0.009147668310501175,3,-16.693731773753413,0.06116864271092332,3,21.124059635649218,1.0500515197032767,3
+if_if,Acceleration,6.0,21.6,3,,,0,-5.987230752268196,0.04759737671694141,3,19.901310904702083,0.09041820931149855,3
+if_if,Acceleration,9.0,32.4,3,,,0,1.8036185696585605,0.05414463379509565,3,19.789895650648592,0.1076314018755473,3

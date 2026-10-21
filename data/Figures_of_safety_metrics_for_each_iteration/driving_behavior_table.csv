@@ -1,0 +1,13 @@
+ADS,Lead_speed_mps,Runs,Valid_cruising_runs,Overshoot_mps,Oscillation_mps,Mean_tracking_error_mps,Mean_absolute_tracking_error_mps,Tracking,Stopping_delay_s,Valid_stopping_runs,Braking
+TransFuser v4,3.0,3,3,3.76 +/- 0.06,0.75 +/- 0.10,0.02 +/- 0.00,0.57 +/- 0.07,Near,0.20 +/- 0.05,3,Review plot
+TransFuser v4,6.0,3,3,1.06 +/- 0.00,1.13 +/- 0.02,-0.60 +/- 0.03,1.05 +/- 0.03,Below,5.48 +/- 0.23,3,Review plot
+TransFuser v4,9.0,3,3,0.00 +/- 0.00,1.04 +/- 0.11,-3.32 +/- 0.12,3.32 +/- 0.12,Below,16.65 +/- 0.35,3,Review plot
+PlanT,3.0,3,3,4.99 +/- 0.00,0.66 +/- 0.01,0.06 +/- 0.00,0.54 +/- 0.01,Near,0.30 +/- 0.00,3,Review plot
+PlanT,6.0,3,3,6.85 +/- 0.00,1.93 +/- 0.00,0.24 +/- 0.00,1.46 +/- 0.00,Near,6.40 +/- 0.00,3,Review plot
+PlanT,9.0,3,3,6.66 +/- 0.00,1.36 +/- 0.00,0.55 +/- 0.00,0.84 +/- 0.00,Above,0.70 +/- 0.00,3,Review plot
+InterFuser,3.0,3,3,2.22 +/- 0.01,0.75 +/- 0.08,0.03 +/- 0.00,0.53 +/- 0.05,Near,0.85 +/- 0.05,3,Review plot
+InterFuser,6.0,3,3,0.00 +/- 0.00,0.16 +/- 0.00,-0.90 +/- 0.00,0.90 +/- 0.00,Below,8.42 +/- 0.12,3,Review plot
+InterFuser,9.0,3,3,0.00 +/- 0.00,0.15 +/- 0.00,-3.77 +/- 0.00,3.77 +/- 0.00,Below,20.18 +/- 0.08,3,Review plot
+Autoware Mini,3.0,3,3,1.01 +/- 0.24,0.45 +/- 0.02,0.02 +/- 0.01,0.39 +/- 0.01,Near,0.75 +/- 0.13,3,Review plot
+Autoware Mini,6.0,3,3,1.51 +/- 0.09,0.60 +/- 0.00,0.18 +/- 0.02,0.53 +/- 0.00,Near,2.31 +/- 0.05,3,Review plot
+Autoware Mini,9.0,3,3,1.58 +/- 0.23,1.07 +/- 0.04,0.95 +/- 0.05,1.23 +/- 0.05,Above,4.25 +/- 0.19,3,Review plot
